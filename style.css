@@ -1,0 +1,50 @@
+.carousel-caption h5{
+    font-size: 30px;
+    color: rgb(17, 0, 255);
+    text-shadow: 2px 2px 2px rgb(255, 255, 255);
+    padding: 2;
+    text-align: left;
+}
+
+.carousel-caption p{
+    font-size: 20px;
+    color: white;
+    text-shadow: 2px 2px 2px black;
+    padding: 2;
+    text-align: left;
+}
+
+h6 {
+    font-size: 18px;
+    padding: 2;
+    font-weight: 600;
+}
+
+span img{
+    border-radius: 50%;
+    margin: 10px
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+footer p {
+    color: black;
+
+}
+
+.card-body p{
+    text-align: left;
+    padding: 2;
+    margin: 2px;
+} 
+
+.card-body h1{
+    font-size: 20px;
+}
+
+.card-body h6{
+    font-size: 15px;
+}
